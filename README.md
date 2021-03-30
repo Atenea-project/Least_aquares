@@ -1,4 +1,4 @@
-# Least_aquares
+# Least squares
 In this repository we will see how to apply the least squares to a linear and a parabolic regression.
 
 The code can be executed from a google collab:
